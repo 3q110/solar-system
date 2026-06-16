@@ -15,8 +15,6 @@
 
 👉 **[点击打开在线演示](https://3q110.github.io/solar-system/solar_system.html)**
 
-> ⚠️ GitHub Pages 首次部署需要 1~2 分钟，如果打不开请稍等片刻后刷新。
-
 ## 🎮 操作说明
 
 ### 鼠标操作
